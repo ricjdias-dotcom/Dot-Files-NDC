@@ -1,0 +1,4 @@
+# Custom Aliases for demo
+
+alias gs='git status'
+alias greet='echo "👋 Hello from your customized Codespace!"'
